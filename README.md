@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Raul Laguna Arboleya Andrade, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na Fiap School, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na FIAP. Sou a paixonado por tecnologia e quero desbravar esse mundo.
+<p>
+    Me chamo Raul Laguna Arboleya Andrade, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na Fiap School, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na FIAP. Sou a paixonado por tecnologia e quero           desbravar esse mundo.
+</p>
 <br>
 ---
 <br>
