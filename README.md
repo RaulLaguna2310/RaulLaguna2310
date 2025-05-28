@@ -8,7 +8,6 @@
 
 <br>
 <hr>
-<br>
 
 ### Linguagens e Tecnologias
 
