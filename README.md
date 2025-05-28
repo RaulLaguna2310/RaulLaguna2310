@@ -92,15 +92,6 @@ Me chamo Raul Laguna Arboleya Andrade, tenho 18 anos e sou natural de São Paulo
 
 <img
     align='left'
-    alt='git'
-    title='Git'
-    width='38px'
-    style='padding-right: 10px;'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img
-    align='left'
     alt='bootstrap'
     title='Bootstrap'
     width='38px'
