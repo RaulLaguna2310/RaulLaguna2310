@@ -10,6 +10,7 @@ Me chamo Raul Laguna Arboleya Andrade, tenho 18 anos e sou natural de São Paulo
 ### Linguagens e Tecnologias
 
 <img
+    align='left'
     alt='html'
     title='HTML'
     width='38px'
